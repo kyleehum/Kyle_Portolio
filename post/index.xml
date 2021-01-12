@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Kyle Hum</title>
+    <link>https://kyleehum.github.io/post/</link>
+    <description>Recent content in Projects on Kyle Hum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://kyleehum.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>COVID-19 Vaccine Sentiment Analysis</title>
+      <link>https://kyleehum.github.io/post/project2/</link>
+      <pubDate>Wed, 28 Oct 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://kyleehum.github.io/post/project2/</guid>
+      <description>Project 2 - COVID-19 Vaccine Sentiment Analysis Background Information The purpose behind this project was to evaluate and analyze the general opinion of the most recently introduced COVID19 vaccine. In order to gather the public&amp;rsquo;s opinion, the most recent tweets from 12/17/2020, 12/26/2020, and 12/28/2020 were extracted from Twitter&amp;rsquo;s API. This analysis will utilize data cleaning and manipulating, natural language processing (NLP), and data visualization.
+The full published article can be found on the Towards Data Science website here</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning: Regression</title>
+      <link>https://kyleehum.github.io/post/project1/</link>
+      <pubDate>Tue, 01 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://kyleehum.github.io/post/project1/</guid>
+      <description>Background Information My data set consists of information regarding the evaluation of burritos in San Diego, California. The data was gathered mostly from the neuroscience graduate department at UC San Diego. With a total of 385 rows, the dataset contains both burrito evaluation criteria and general information about the individual establishment, such as address, website, etc.. The burritos were evaluated based on 10 core dimensions: Volume, Tortilla quality (Temperature), Meat quality, Non-meat filling quality, Meat-to-filling ratio, uniformity, salsa quality, flavor synergy, and wrap integrity.</description>
+    </item>
+    
+  </channel>
+</rss>
